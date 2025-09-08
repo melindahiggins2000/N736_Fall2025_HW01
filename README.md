@@ -30,6 +30,8 @@ These datasets are available in CANVAS for NRSG 736:
 * SAS data format (`helpmkh.sas7bdat`)
 * R data format (`helpwide.RData`)
 
+Also see course website: [https://melindahiggins2000.github.io/N736/helpdata.html](https://melindahiggins2000.github.io/N736/helpdata.html)
+
 ### Variables in HELP dataset to be used for Homework 01
 
 Use these variables from HELP dataset for Homework 01
